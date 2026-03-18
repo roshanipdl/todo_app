@@ -8,3 +8,12 @@ function markComplete(taskId):
     find task by id
     change status to "completed"
     save changes
+
+
+TABLE TodoList:
+
+| ID | Task Name        | Priority | Status     | Action        |
+|----|------------------|----------|------------|---------------|
+| 1  | Buy groceries    | High     | Pending    | Edit / Delete |
+| 2  | Complete report  | Medium   | Completed  | Edit / Delete |
+| 3  | Study SPM        | Low      | Pending    | Edit / Delete |
