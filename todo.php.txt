@@ -17,3 +17,12 @@ TABLE TodoList:
 | 1  | Buy groceries    | High     | Pending    | Edit / Delete |
 | 2  | Complete report  | Medium   | Completed  | Edit / Delete |
 | 3  | Study SPM        | Low      | Pending    | Edit / Delete |
+
+
+
+function deleteTask(taskId):
+    locate task
+    remove from list
+    return confirmation
+
+    
