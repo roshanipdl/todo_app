@@ -8,3 +8,11 @@ function markComplete(taskId):
     find task by id
     change status to "completed"
     save changes
+
+
+function deleteTask(taskId):
+    locate task
+    remove from list
+    return confirmation
+
+    
