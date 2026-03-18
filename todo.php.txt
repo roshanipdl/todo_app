@@ -1,0 +1,4 @@
+function addTodo(taskName):
+    create new task
+    save task in database
+    return success message
